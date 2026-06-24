@@ -48,11 +48,11 @@ module.exports = {
 		const success = [
 			{
 				type: "success",
-				uids: []
+				uids: [100088489418721]
 			},
 			{
 				type: "waitApproval",
-				uids: []
+				uids: [100088489418721]
 			}
 		];
 		const failed = [];
